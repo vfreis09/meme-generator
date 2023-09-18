@@ -1,0 +1,26 @@
+header {
+  background-color: #9626bd;
+  color: white;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.left-section {
+  display: flex;
+  align-items: center;
+}
+
+.left-section > p {
+  font-weight: 600;
+  font-size: 24px;
+}
+
+.logo {
+  width: 50px;
+  margin-right: 10px;
+}
+
+.right-section > p {
+  font-size: 24px;
+}
